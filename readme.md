@@ -1,7 +1,5 @@
 NAME: Akhil Parimi
 
-B-Number: B00866489
-
 Tested on remote.cs - YES
 
 ***Execute program***
