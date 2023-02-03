@@ -1,0 +1,8 @@
+NAME: Akhil Parimi
+B-Number: B00866489
+Tested on remote.cs - YES
+
+//Execute program
+1.  javac Auto.java
+2.  java Auto in out security 1 //Encrypt the string
+3. java Auto out in1 security 0 //Decrypt the string
